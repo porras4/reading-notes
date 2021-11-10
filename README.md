@@ -10,5 +10,8 @@ I try to maintain this attitude with these reminders.
 
 Theodore Roosevelt
 
-## Reading Notes
-[1. Learning Markdown]
+[1. Learning Markdown.](markdown.md)
+
+[2. The Coder's Computer.](thecoderscomputer.md)
+
+[3. Git and GitHub.](github.md)
