@@ -6,15 +6,19 @@ Git is a version control system. This system records a history of changes made t
 Cloning is a process that allow developers to store and edit code on their computers. These edits can be therefore made on a text editor instead of GitHub directly. Several commands on the terminal are used to send these changes to GitHub. These commands are add, commit, and push. Below are examples of these commands.
 
     git add filename.md
+
 or
 
-    git add *
+    git add *]
+
 These command tells Github that a change has been made and makes them ready to be commited. The first command is used for specific files and the second is used for the whole repository
 
     git commit -m""
+
 This command tells Github that this is the most recent version of the code. The commit comment is written inside the apostrophes after the -m.
 
     git push origin main
+
 This command sends or “pushes” the changes to GitHub.
 
 **Note:** Do not make changes to code on directly on GitHub once cloning has used.
@@ -23,9 +27,11 @@ Seeing Remotes (Links to an external site.)
 When a repository is cloned, the server from which it was cloned from will be called “origin.” When a repository is hosted on the internet, it is called a remote repository or remote for short. These remotes can been seen using a the following commands.
 
     git remote
+
 This command gives you the names of the remotes.
 
     git remote -v
+
 This command gives you the name and URLs of the remotes.
 
 [Main Page](README.md)
