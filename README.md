@@ -10,8 +10,12 @@ I try to maintain this attitude with these reminders.
 
 Theodore Roosevelt
 
+### Navigation
+
 [1. Learning Markdown.](markdown.md)
 
 [2. The Coder's Computer.](thecoderscomputer.md)
 
 [3. Git and GitHub.](github.md)
+
+[4. HTML.](html.md)
