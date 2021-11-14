@@ -34,6 +34,7 @@ Here the img tag is assigned to a class named "image". CSS is then used to apply
 HTML
 
     <img src="source" alt"description" class="image">
+    
 CSS
 
     .image {
