@@ -21,3 +21,5 @@ Theodore Roosevelt
 [4. HTML.](html.md)
 
 [5. CSS.](css.md)
+
+[6. JavaScript](javascript.md)
