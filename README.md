@@ -22,4 +22,6 @@ Theodore Roosevelt
 
 [5. CSS.](css.md)
 
-[6. JavaScript](javascript.md)
+[6. JavaScript.](javascript.md)
+
+[7. Programming with JavaScript.](programming.md)
