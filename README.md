@@ -25,3 +25,5 @@ Theodore Roosevelt
 [6. JavaScript.](javascript.md)
 
 [7. Programming with JavaScript.](programming.md)
+
+[8. Loops](loops.md)
