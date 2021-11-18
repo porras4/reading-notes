@@ -14,4 +14,4 @@ We can expand on the let statement by asking the user for input to declare the v
 
 The information gathered from the user's input can then be used to display an output on the website. This is a simple example of how JavaScript can make a website interactive.
 
-[Main Page](javascript.md)
+[Main Page](README.md)

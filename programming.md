@@ -13,7 +13,7 @@ Operators can also perform math! Below is an example of a statement that assigns
     let z = x - y
 
 There are more operators for many more uses.
-## Functions and Syntax
+## Functions
 A benefit of using a function is that it can be **invoked** or called upon to be used thoughout the code multiple times. In the example below, two variables are assigned and a function called sum is created. 
 
     let a = 2;

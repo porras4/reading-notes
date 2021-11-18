@@ -18,15 +18,15 @@ Theodore Roosevelt
 ```
 Here there are five examples of syntax being used
 
--"#" for heading
+- "#" for heading
 
--"**" for bold text
+- "**" for bold text
 
--"`[link](https://www.codefellows.org)`" for links
+- "`[link](https://www.codefellows.org)`" for links
 
--"-" for lists
+- "-" for lists
 
--">" for quotes
+- ">" for quotes
 
 [Main Page](README.md)
 
